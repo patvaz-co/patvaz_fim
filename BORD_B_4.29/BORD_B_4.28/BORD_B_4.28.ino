@@ -1,4 +1,4 @@
-// نسخه جدید با 6 عدد IC شامل MP11 و MP12 و WM6 و EV6 و رله ششم
+
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <ArduinoOTA.h>
